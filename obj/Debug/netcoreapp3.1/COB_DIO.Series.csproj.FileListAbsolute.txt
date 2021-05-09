@@ -1,0 +1,13 @@
+C:\Projetos_JEB\COB_DIO.Series\obj\Debug\netcoreapp3.1\COB_DIO.Series.csprojAssemblyReference.cache
+C:\Projetos_JEB\COB_DIO.Series\obj\Debug\netcoreapp3.1\COB_DIO.Series.AssemblyInfoInputs.cache
+C:\Projetos_JEB\COB_DIO.Series\obj\Debug\netcoreapp3.1\COB_DIO.Series.AssemblyInfo.cs
+C:\Projetos_JEB\COB_DIO.Series\obj\Debug\netcoreapp3.1\COB_DIO.Series.csproj.CoreCompileInputs.cache
+C:\Projetos_JEB\COB_DIO.Series\bin\Debug\netcoreapp3.1\COB_DIO.Series.exe
+C:\Projetos_JEB\COB_DIO.Series\bin\Debug\netcoreapp3.1\COB_DIO.Series.deps.json
+C:\Projetos_JEB\COB_DIO.Series\bin\Debug\netcoreapp3.1\COB_DIO.Series.runtimeconfig.json
+C:\Projetos_JEB\COB_DIO.Series\bin\Debug\netcoreapp3.1\COB_DIO.Series.runtimeconfig.dev.json
+C:\Projetos_JEB\COB_DIO.Series\bin\Debug\netcoreapp3.1\COB_DIO.Series.dll
+C:\Projetos_JEB\COB_DIO.Series\bin\Debug\netcoreapp3.1\COB_DIO.Series.pdb
+C:\Projetos_JEB\COB_DIO.Series\obj\Debug\netcoreapp3.1\COB_DIO.Series.dll
+C:\Projetos_JEB\COB_DIO.Series\obj\Debug\netcoreapp3.1\COB_DIO.Series.pdb
+C:\Projetos_JEB\COB_DIO.Series\obj\Debug\netcoreapp3.1\COB_DIO.Series.genruntimeconfig.cache
